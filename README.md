@@ -4,32 +4,6 @@ This is a example page for the web hosting of all INSPIRE projects.
 
 
 
-### Markdown
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-
-### Jekyll Themes
-
-
-
-### Support or Contact
+This program is a random number game but is it truely random?
 
 
